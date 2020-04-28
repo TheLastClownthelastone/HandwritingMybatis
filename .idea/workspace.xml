@@ -4,7 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9acdc620-45ac-48e4-befb-4aba23ddf51a" name="Default Changelist" comment="" />
+    <list default="true" id="9acdc620-45ac-48e4-befb-4aba23ddf51a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +35,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors..ignore files" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,21 +52,38 @@
       <option name="presentableId" value="Default" />
       <updated>1588083372708</updated>
       <workItem from="1588083377048" duration="652000" />
+      <workItem from="1588084073103" duration="483000" />
     </task>
+    <task id="LOCAL-00001" summary="pt">
+      <created>1588084132275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588084132276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pt" />
+    <option name="LAST_COMMIT_MESSAGE" value="pt" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1588084092680">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1588084563910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588084092680" />
-    <state x="461" y="161" key="SettingsEditor" timestamp="1588084026689">
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1588084563910" />
+    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1588084143789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588084026689" />
+    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588084143789" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1588084247550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588084247550" />
     <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1588084076476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
