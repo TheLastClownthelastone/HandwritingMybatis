@@ -34,7 +34,9 @@ public class SqlSessionFactory {
         if(file.isDirectory()){
             File[] files = file.listFiles(f -> f.getName().endsWith(".xml"));
             if(files!=null&&files.length>0){
+                for (File maperFile:files){
 
+                }
             }
         }
 

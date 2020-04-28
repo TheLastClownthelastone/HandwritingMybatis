@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9acdc620-45ac-48e4-befb-4aba23ddf51a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pt/config/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pt/config/MappedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pt/session/SqlSessionFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pt/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pt/session/SqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pt/session/SqlSessionFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +90,7 @@
       <updated>1588083372708</updated>
       <workItem from="1588083377048" duration="652000" />
       <workItem from="1588084073103" duration="1242000" />
-      <workItem from="1588085341366" duration="4490000" />
+      <workItem from="1588085341366" duration="5482000" />
     </task>
     <task id="LOCAL-00001" summary="pt">
       <created>1588084132275</created>
@@ -112,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588084604638</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pt">
+      <created>1588089896241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588089896241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,18 +124,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="pt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Inspections" timestamp="1588089379667">
+    <state x="552" y="178" key="#Inspections" timestamp="1588090456408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1588089379667" />
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1588090456408" />
     <state x="552" y="178" key="#Project_Structure" timestamp="1588084563910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1588084563910" />
-    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1588084603327">
+    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1588089894464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588084603327" />
+    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588089894464" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1588086556976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -159,10 +160,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588087055467" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1588084611638">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1588089900236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588084611638" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588089900236" />
     <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1588084076476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
